@@ -6,7 +6,7 @@ A/B Tests are very commonly performed by data analysts to interpret and examine 
 
 Software: Python 3 
 Packages: Pandas, Numpy, Matplotlib, StatsModels, Scipy
-Raw Data: _ab\_data.csv_ (`df`), _countires.csv_ (countries_df)
+Raw Data: _ab\_data.csv_ (`df`), _countires.csv_ (`countries_df`)
 
 ## Project Scope
 
