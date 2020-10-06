@@ -22,7 +22,7 @@ Part 2: A/B Test: Hypothesis testing is conducted by assuming old page is better
       - Comparison of p-value.
       - Validation/Double-check results to decide whether to reject the null hypothesis
 
-Part 3: Regression: Logistic regression is performed
+Part 3: Regression: Logistic regression is performed 
 
       - Logistic regression is performed to confirm the results.
       - By further adding country variable, we attempt to see whether country has impact on conversion.
